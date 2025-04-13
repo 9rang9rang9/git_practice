@@ -2,7 +2,11 @@ team: leopards
 
 manager: Lora
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> ef550da (Edit Leopards)
 
 members:
   - a
